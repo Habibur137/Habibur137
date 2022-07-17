@@ -7,7 +7,7 @@ I am an accomplished full-stack (MERN) web application developer working with Ja
 
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **habibur.rahman.r17@gmail.com**
+- 📫 **habibur.rahman.r17@gmail.com**
 <p align="left">
 </p>
 
