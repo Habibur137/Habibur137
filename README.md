@@ -7,6 +7,8 @@ I am an accomplished full-stack (MERN) web application developer working with Ja
 
 
 <h3 align="left">Connect with me:</h3>
+- 💬 Ask me about **MERN Stack Development.**
+- 📫 How to reach me **habibur.rahman.r17@gmail.com**
 <p align="left">
 </p>
 
